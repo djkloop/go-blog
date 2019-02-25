@@ -2,6 +2,13 @@
 label: djkloop
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: aaaaaaaa
+  label: aaaa
+  description: aaaaaa
+  hidden: true
+  config:
+    required: true
 pages:
 - content/djkloop.md
